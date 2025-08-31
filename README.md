@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there. I am Aditi Rajesh Limkar 👋
 
 # 💫 About Me:
 🔭 I’m currently working on 100 days of Python<br>👯 I’m looking to add an experience block on my resume<br>🌱 I’m currently learning Machine Learning/AI<br>💬 Ask me about Web Developement and BTS<br>
